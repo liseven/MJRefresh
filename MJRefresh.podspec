@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name         = 'MJRefresh'
-    s.version      = '2.4.11'
-    s.summary      = 'The easiest way to use pull-to-refresh'
+    s.version      = '3.1.12'
+    s.summary      = 'An easy way to use pull-to-refresh'
     s.homepage     = 'https://github.com/CoderMJLee/MJRefresh'
     s.license      = 'MIT'
     s.authors      = {'MJ Lee' => '199109106@qq.com'}
